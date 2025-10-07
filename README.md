@@ -53,3 +53,7 @@ Stable Diffusion 기반으로 컴퓨터 및 핸드폰 배경화면 이미지를 
 - Stable Diffusion 모델: https://huggingface.co/CompVis/stable-diffusion-v1-4
 
 - [Llama 모델](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)
+
+---
+## 결과 화면
+<img width="498" height="345" alt="image" src="https://github.com/user-attachments/assets/944f0043-1157-4115-9aa1-69312292a265" />
