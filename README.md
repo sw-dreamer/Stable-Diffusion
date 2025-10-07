@@ -27,3 +27,29 @@ Stable Diffusion 기반으로 컴퓨터 및 핸드폰 배경화면 이미지를 
        │
        └─ 영어 → Stable Diffusion → 이미지 생성
 ```
+## 기술 스택
+
+- Python 3.10+
+-  FastAPI (웹 서버)
+-  Stable Diffusion (Diffusers / Hugging Face)
+-  Llama 모델 (한국어 → 영어 번역)
+-  CUDA 지원 GPU (NVIDIA 권장)
+
+## 버전
+
+- meta-llama/Meta-Llama-3-8B-Instruct
+- runwayml/stable-diffusion-v1-5
+- torch: 2.8.0+cu126
+- torchvision: 0.23.0+cu126
+- diffusers: 0.35.1
+- transformers: 4.56.2
+- Pillow: 11.3.0
+- fastapi: 0.118.0
+- uvicorn: 0.37.0
+
+---
+
+## 참고 
+- Stable Diffusion 모델: https://huggingface.co/CompVis/stable-diffusion-v1-4
+
+- [Llama 모델](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)
