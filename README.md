@@ -27,7 +27,7 @@ Stable Diffusion 기반으로 컴퓨터 및 핸드폰 배경화면 이미지를 
        │
        └─ 영어 → Llama 확장 → 자연스럽고 직관적인 스타일의 영어 prompt → Stable Diffusion → 이미지 생성
 
-**시스템 구성도**
+
 
 ```
 
