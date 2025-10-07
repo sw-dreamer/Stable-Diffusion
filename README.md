@@ -1,2 +1,9 @@
-# Stable-Diffusion
-Stable Diffusion 기반 Wallpaper 만들기
+# Stable Diffusion Wallpaper Generator
+
+Stable Diffusion 기반으로 컴퓨터 및 핸드폰 배경화면 이미지를 생성해주는 서비스입니다. 사용자가 원하는 스타일, 테마, 색상 등을 입력하면 AI가 맞춤형 배경화면을 만들어 제공합니다.
+
+---
+
+## 🚀 목표
+- **컴퓨터/핸드폰 배경화면 생성**: Stable Diffusion 모델을 활용하여 고해상도 배경화면 이미지 생성
+- **사용자 맞춤형**: 스타일, 테마, 색상, 해상도 등을 사용자가 직접 지정
