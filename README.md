@@ -56,7 +56,8 @@ Stable Diffusion 기반으로 컴퓨터 및 핸드폰 배경화면 이미지를 
 
 ---
 ## 결과 화면
-<img width="375" height="267" alt="image" src="https://github.com/user-attachments/assets/90ce3049-eb47-4cba-b0e5-553e20901444" />
+<img width="382" height="217" alt="image" src="https://github.com/user-attachments/assets/8fca1296-933f-4b8c-bbf0-135669334e9d" />
+
 
 </br>
 
